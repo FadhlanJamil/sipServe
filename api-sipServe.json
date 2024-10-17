@@ -1,20 +1,12 @@
 [
   
 {
- "Deskripsi": "Logo",
+ "deskripsi": "Logo",
  "imageId":"logo"
 },
 {
- "Deskripsi": "Logo",
- "imageId":"logo"
-},
-{
- "Deskripsi": "Logo",
- "imageId":"logo"
-},
-{
- "Deskripsi": "Logo",
- "imageId":"logo"
+ "deskripsi": "Google",
+ "imageId":"google"
 },
   
 ]
